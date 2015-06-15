@@ -446,13 +446,14 @@
 			path = controller;
 			sourceTree = "<group>";
 		};
-		B1CF0EC01B1D5A2B0041E6A9 /* Message(消息) */ = {
+		B1CF0EC01B1D5A2B0041E6A9 /* Message */ = {
 			isa = PBXGroup;
 			children = (
 				B1CF0EC11B1D5A2B0041E6A9 /* Controller */,
 				B1CF0EC41B1D5A2B0041E6A9 /* Model */,
 				B1CF0EC51B1D5A2B0041E6A9 /* View */,
 			);
+			name = Message;
 			path = "Message(消息)";
 			sourceTree = "<group>";
 		};
@@ -479,13 +480,14 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		B1CF0EE01B1D5AA50041E6A9 /* Profile(我) */ = {
+		B1CF0EE01B1D5AA50041E6A9 /* Profile */ = {
 			isa = PBXGroup;
 			children = (
 				B1CF0EE11B1D5AA50041E6A9 /* Controller */,
 				B1CF0EE61B1D5AA50041E6A9 /* Model */,
 				B1CF0EE71B1D5AA50041E6A9 /* View */,
 			);
+			name = Profile;
 			path = "Profile(我)";
 			sourceTree = "<group>";
 		};
@@ -514,13 +516,14 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		B1CF0F1E1B1D5CA60041E6A9 /* Discover(发现) */ = {
+		B1CF0F1E1B1D5CA60041E6A9 /* Discover */ = {
 			isa = PBXGroup;
 			children = (
 				B1CF0F1F1B1D5CA60041E6A9 /* Controller */,
 				B1CF0F221B1D5CA60041E6A9 /* Model */,
 				B1CF0F2D1B1D5CA60041E6A9 /* View */,
 			);
+			name = Discover;
 			path = "Discover(发现)";
 			sourceTree = "<group>";
 		};
@@ -635,9 +638,9 @@
 			isa = PBXGroup;
 			children = (
 				B18B52A11B1E98C100D12276 /* Base */,
-				B1CF0F1E1B1D5CA60041E6A9 /* Discover(发现) */,
-				B1CF0EE01B1D5AA50041E6A9 /* Profile(我) */,
-				B1CF0EC01B1D5A2B0041E6A9 /* Message(消息) */,
+				B1CF0F1E1B1D5CA60041E6A9 /* Discover */,
+				B1CF0EE01B1D5AA50041E6A9 /* Profile */,
+				B1CF0EC01B1D5A2B0041E6A9 /* Message */,
 				B1D33E301B18363E001B4D53 /* home */,
 				B1D33D971B181637001B4D53 /* lib */,
 				B1D33D891B181509001B4D53 /* feature */,
