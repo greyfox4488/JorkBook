@@ -24,6 +24,12 @@
 
 }
 
+-(void)test2{
+    NSLog(@"asd") ;
+    NSLog(@"asd") ;
+    NSLog(@"asd") ;
+}
+
 
 +(void)initialize{
     UIBarButtonItem *item=[UIBarButtonItem appearance] ;

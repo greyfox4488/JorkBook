@@ -15,13 +15,14 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    
+    // this is a git test
 //    [self.fresher beginRefreshing] ;
     [self.tableView footerBeginRefreshing];
     
 //    [self loadStatuses] ;
 
 }
+
 
 -(void)loadStatuses{
 
